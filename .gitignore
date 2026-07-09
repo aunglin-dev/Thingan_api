@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+
+# IDE settings
+.vs/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+
+# Local logs
+*.log
+api.out.log
+api.err.log
