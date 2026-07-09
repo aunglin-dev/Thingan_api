@@ -10,6 +10,4 @@
     <File Path="docker-compose.yml" />
     <File Path="README.md" />
   </Folder>
-  <Project Path="Catalog.API/Catalog.API.csproj" />
-  <Project Path="Shared/Shared.csproj" />
 </Solution>
